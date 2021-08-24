@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text&display=swap');
+
+body{
+  background-color: azure;
+}
+
+h2{
+  font-family:'STIX Two Text', serif;
+}
